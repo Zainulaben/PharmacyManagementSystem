@@ -1,1 +1,1 @@
-# SEProject
+# Pharmacy Management System
